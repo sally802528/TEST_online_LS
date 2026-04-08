@@ -1,7 +1,9 @@
 [
   {
     "url": "/1.jpg",
-    "type": "image/jpeg"
+    "type": "image/jpeg",
+    "title":"示範空間的一些話",
+    "info":"Hi!，這是Qimei Technology Studio的流光空間線上示範畫廊，你現在看到這裡的每個數字，代表你已經正確連接到正確的空間，而這裡的數值，代表manifest.json從上而下的排列，總而言之，你可以參考這個設計，並動動你靈活小腦袋瓜和手手，創造出更有意義的藝術空間!"
   },
   {
     "url": "/2.jpg",
@@ -117,11 +119,14 @@
         "type": "image/jpeg"
     },
     {
-        "url": "/E.jpg",
+        "url": "/F.jpg",
         "type": "image/jpeg"
     },
     {
-        "url": "/F.jpg",
-        "type": "image/jpeg"
+        "url": "/E.jpg",
+        "type": "image/jpeg",
+        "title":"你發現了問題?",
+        "info":"這裡的排列錯誤，是為了證明這個系統的排列依據是來自定義檔的順序。"
+      
     }
 ]
