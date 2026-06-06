@@ -1,5 +1,10 @@
 [
   {
+    "g_level": "0",
+    "g_title":"歡迎來到示範空間",
+    "g_subtitle":"Created by Qimei technology studio"
+  },
+  {
     "url": "/1.jpg",
     "type": "image/jpeg",
     "title":"示範空間的一些話",
