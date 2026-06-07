@@ -11,7 +11,7 @@
     "info":"Hi!，這是Qimei Technology Studio的流光空間線上示範畫廊，你現在看到這裡的每個數字，代表你已經成功連接到正確的空間，而這裡的數值，代表manifest.json從上而下的排列，總而言之，你可以參考這個設計，並動動你靈活小腦袋瓜和手手，創造出更有意義的藝術空間!"
   },
   {
-    "url": "https://scontent-sin2-2.cdninstagram.com/v/t51.82787-15/708210067_17895994161464712_8043708874342116459_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=MzkwNzA2ODUyNDg0NjM0NDg4NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjM5LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=xOWhzruqzMQQ7kNvwGp96Ls&_nc_oc=AdqYuu1KMy-oUsD5E3jahHp63v58ff_QUwc40hLcerAJF66V4KGEKWeAuFFVLvsCRzcSi9ENUz0UYvbGA1Kzwkui&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sin2-2.cdninstagram.com&_nc_gid=1QRHwNvt4p6HFOS4ewQsTQ&_nc_ss=7a22e&oh=00_Af8LSB4o-VlePlcyLPMP1nnnn9dOHy1L0Iv_oMr_SAo3dQ&oe=6A2A9CAF",
+    "url": "/2.jpg",
     "type": "image/jpeg"
   },
   {
@@ -134,5 +134,13 @@
         "title":"你發現了問題?",
         "info":"這裡的排列錯誤，是為了證明這個系統的排列依據是來自定義檔的順序，而非完全隨機。"
       
+    },
+    {
+        "url": "https://instagram.ftpe7-2.fna.fbcdn.net/v/t51.82787-15/719009646_17930554260318228_1478286905157747169_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=MzkxMzkzNjI4OTA4ODAxMjkzMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNTAwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=cRdYGXLU5kIQ7kNvwEWNg2J&_nc_oc=AdrHiO1kjxA005bTqYL-_Yg9p_qAJ5LS8Q0R7wyd_iC5NOQoJf4YG8W8avB5OOvUjEj_Gl6TW3LbhPANo8a4l5ww&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe7-2.fna&_nc_gid=PHOtBTsYC534vzaMz9ipSg&_nc_ss=7a22e&oh=00_Af-2_3L6NcASBlWyyVSl7DJltDmLvtI46l5X3eJX4Gz_mQ&oe=6A2A97E0",
+        "type": "image/jpeg",
+        "title":"這是來自Threads發布",
+        "info":"這裡測試的是，他是否有能力可以獲取其他網站的資料，如果這個A正常無誤，完整沒破圖，就代表這個網站是可行的。"
+      
     }
+  
 ]
